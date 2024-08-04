@@ -1,3 +1,3 @@
 # depth_over_rgb
 
-(images/simulator.png)
+![visualization](images/simulator.jpg)
